@@ -1,2 +1,2 @@
-let total = 50;
-
+let total = 40;
+total += 10;
