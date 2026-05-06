@@ -1,3 +1,3 @@
-let total = 50;
-total += 5;
+let total = 100;
+total += 50;
 total -= 40;
